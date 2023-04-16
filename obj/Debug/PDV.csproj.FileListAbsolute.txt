@@ -1,0 +1,7 @@
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.csproj.AssemblyReference.cache
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.frmPrincipal.resources
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.Properties.Resources.resources
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.frmPrincipal.zu.resources
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.csproj.GenerateResource.cache
+C:\Users\Lucy Minene\Desktop\PDV\PDV\obj\Debug\PDV.csproj.CoreCompileInputs.cache
