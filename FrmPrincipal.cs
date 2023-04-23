@@ -16,5 +16,10 @@ namespace PDV
         {
             InitializeComponent();
         }
+
+        private void produtosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

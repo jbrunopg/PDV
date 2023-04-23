@@ -117,26 +117,217 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>frmPrincipal</value>
-  </data>
+  <metadata name="MenuPrincipal.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+  <data name="MenuCadastros.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 20</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>frmPrincipal</value>
+  <data name="MenuCadastros.Text" xml:space="preserve">
+    <value>Cadastros</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>800, 450</value>
+  <data name="MenuProduto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 20</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="MenuProduto.Text" xml:space="preserve">
+    <value>Produtos</value>
+  </data>
+  <data name="movimentaçõesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 20</value>
+  </data>
+  <data name="movimentaçõesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Movimentações</value>
+  </data>
+  <data name="relatóriosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 20</value>
+  </data>
+  <data name="relatóriosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Relatórios</value>
+  </data>
+  <data name="sairToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 20</value>
+  </data>
+  <data name="sairToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="MenuPrincipal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="MenuPrincipal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>898, 24</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MenuPrincipal.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="MenuPrincipal.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;MenuPrincipal.Name" xml:space="preserve">
+    <value>MenuPrincipal</value>
+  </data>
+  <data name="&gt;&gt;MenuPrincipal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuPrincipal.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MenuPrincipal.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <data name="contextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 4</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
+    <value>contextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="img01.Location" type="System.Drawing.Point, System.Drawing">
+    <value>91, 44</value>
+  </data>
+  <data name="img01.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 206</value>
+  </data>
+  <data name="img01.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;img01.Name" xml:space="preserve">
+    <value>img01</value>
+  </data>
+  <data name="&gt;&gt;img01.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;img01.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;img01.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="img02.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="img02.Location" type="System.Drawing.Point, System.Drawing">
+    <value>415, 44</value>
+  </data>
+  <data name="img02.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 206</value>
+  </data>
+  <data name="img02.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;img02.Name" xml:space="preserve">
+    <value>img02</value>
+  </data>
+  <data name="&gt;&gt;img02.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;img02.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;img02.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="img03.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="img03.Location" type="System.Drawing.Point, System.Drawing">
+    <value>91, 276</value>
+  </data>
+  <data name="img03.Size" type="System.Drawing.Size, System.Drawing">
+    <value>243, 192</value>
+  </data>
+  <data name="img03.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;img03.Name" xml:space="preserve">
+    <value>img03</value>
+  </data>
+  <data name="&gt;&gt;img03.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;img03.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;img03.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="img04.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="img04.Location" type="System.Drawing.Point, System.Drawing">
+    <value>415, 276</value>
+  </data>
+  <data name="img04.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 192</value>
+  </data>
+  <data name="img04.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;img04.Name" xml:space="preserve">
+    <value>img04</value>
+  </data>
+  <data name="&gt;&gt;img04.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;img04.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;img04.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>zu</value>
-  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>898, 485</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Principal</value>
+  </data>
+  <data name="&gt;&gt;MenuCadastros.Name" xml:space="preserve">
+    <value>MenuCadastros</value>
+  </data>
+  <data name="&gt;&gt;MenuCadastros.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuProduto.Name" xml:space="preserve">
+    <value>MenuProduto</value>
+  </data>
+  <data name="&gt;&gt;MenuProduto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;movimentaçõesToolStripMenuItem.Name" xml:space="preserve">
+    <value>movimentaçõesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;movimentaçõesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;relatóriosToolStripMenuItem.Name" xml:space="preserve">
+    <value>relatóriosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;relatóriosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sairToolStripMenuItem.Name" xml:space="preserve">
+    <value>sairToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;sairToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmPrincipal</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
