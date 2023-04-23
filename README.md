@@ -4,6 +4,7 @@
 
 ## Processo de Aprendizagem
 
--[x]
+-[]
+-[]
 
 ## Agradecimento
